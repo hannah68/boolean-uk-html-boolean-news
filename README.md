@@ -6,7 +6,7 @@ This is a simple newspaper article
 ## Instructions 
 - Replicate the newspaper article 
 - Add text elements 
-- Add <hr /> elements 
+- Add hr elements 
 - Add a list Tips 
 - Think about the page structure 
 
